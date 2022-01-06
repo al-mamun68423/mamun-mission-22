@@ -69,4 +69,11 @@ h1{
     background-color: rgb(240, 231, 207);
     
 }
+.text-1{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: 15px 15px ;
+    background-size:7%;
+    padding-right: 20%;
+}
 
